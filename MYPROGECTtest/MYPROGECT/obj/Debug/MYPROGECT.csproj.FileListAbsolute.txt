@@ -1,0 +1,11 @@
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\bin\Debug\MYPROGECT.exe.config
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\bin\Debug\MYPROGECT.exe
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\bin\Debug\MYPROGECT.pdb
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\obj\Debug\MYPROGECT.csproj.AssemblyReference.cache
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\obj\Debug\MYPROGECT.Properties.Resources.resources
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\obj\Debug\MYPROGECT.csproj.GenerateResource.cache
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\obj\Debug\MYPROGECT.csproj.CoreCompileInputs.cache
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\obj\Debug\MYPROGECT.exe
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\obj\Debug\MYPROGECT.pdb
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\obj\Debug\MYPROGECT.AddRecipeForm.resources
+C:\Users\Я\OneDrive\Desktop\лиза\MYPROGECTtest\MYPROGECT\obj\Debug\MYPROGECT.MainForm.resources
