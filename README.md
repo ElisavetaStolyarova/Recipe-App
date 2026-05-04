@@ -24,7 +24,7 @@
 
 *   **Язык:** C# (.NET Core / .NET 6+)
 *   **Архитектура:** OOP (Encapsulation, Inheritance, Polymorphism).
-*   **Data Management:** .Framework Core
+*   **Data Management:** .Framework 
 *   **Database:** База данных с оптимизированной структурой таблиц под рецепты и медиа-файлы.
 
 ## 🏗️ Логика реализации
